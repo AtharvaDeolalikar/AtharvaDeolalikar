@@ -26,6 +26,6 @@
 
 ![image title](https://rushter.com/counter.svg)
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AtharvaDeolalikar&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://www.instagram.com/atharva_deolalikar/)
+[![](https://github-readme-stats.vercel.app/api?username=AtharvaDeolalikar&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://www.instagram.com/atharva_deolalikar/)
 
 
