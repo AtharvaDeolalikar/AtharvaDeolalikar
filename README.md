@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm in 2nd Year pursuing an AI Degree in India.
-#### I love to code, read and connect. 
+#### I love to design websites and learn new things.
 
 #### 🔭 I’ve developed a few websites!
 #### 🌱 I’m currently pursuing B-Tech in Artificial Intelligence.
