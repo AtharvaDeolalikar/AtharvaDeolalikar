@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm in Pre-Final Year pursuing a CS Degree in India.
+### Hi there 👋, I'm in 2nd Year pursuing an AI Degree in India.
 #### I love to code, read and connect. 
 
-#### 🔭 I’ve developed few websites!
+#### 🔭 I’ve developed a few websites!
 #### 🌱 I’m currently pursuing B-Tech in Artificial Intelligence.
 #### ✨ Working on Bootstrap framework.
 
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 ![image title](https://rushter.com/counter.svg) 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AtharvaDeolalikar&show_icons=true&count_private=true)]
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AtharvaDeolalikar&show_icons=true&count_private=true)]()
 
 
