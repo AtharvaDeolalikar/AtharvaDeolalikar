@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=AtharvaDeolalikar&color=brightgreen)
+![image title](https://rushter.com/counter.svg)
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AtharvaDeolalikar&show_icons=true&count_private=true)]()
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AtharvaDeolalikar&show_icons=true&count_private=true)](https://www.instagram.com/atharva_deolalikar/)
 
 
