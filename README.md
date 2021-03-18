@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Atharva Deolalikar | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <a href="https://www.linkedin.com/in/atharva-deolalikar-767208191/">
-  <img align="left" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.pnghttps://i.ibb.co/7Ybr19R/5a22d420c9a5a7-416105621512231968826.png" />
 </a>
 <a href="https://www.instagram.com/atharva_deolalikar/">
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
