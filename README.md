@@ -1,4 +1,4 @@
-### Hi there 👋, I'm in 3rd Year pursuing an AI Degree in India.
+### Hi there 👋, I'm in 3rd Year pursuing Artificial Intelligence Degree in India.
 #### I love to design websites and learn new things.
 
 #### 🔭 I’ve developed a few websites!
