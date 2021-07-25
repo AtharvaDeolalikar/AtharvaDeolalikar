@@ -3,7 +3,7 @@
 
 #### 🔭 I’ve developed a few websites!
 #### 🌱 I’m currently pursuing B-Tech in Artificial Intelligence.
-#### ✨ Working on Bootstrap framework.
+#### ✨ Working on Bootstrap, React framework.
 
 
 #### You can get in touch with me here
