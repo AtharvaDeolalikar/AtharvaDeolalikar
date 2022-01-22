@@ -14,7 +14,7 @@
 <a href="https://twitter.com/AtharvaDD">
   <img align="left" alt="Atharva Deolalikar | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
-<a href="https://www.linkedin.com/in/atharva-deolalikar-767208191/">
+<a href="https://www.linkedin.com/in/atharva-deolalikar">
   <img align="left" alt="Linkedin" width="22px" src="https://i.ibb.co/7Ybr19R/5a22d420c9a5a7-416105621512231968826.png" />
 </a>
 <a href="https://www.instagram.com/atharva_deolalikar/">
@@ -23,6 +23,7 @@
 
 <br />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaDeolalikar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image title](https://rushter.com/counter.svg)
 
