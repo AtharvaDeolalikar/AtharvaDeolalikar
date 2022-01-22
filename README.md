@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm in 3rd Year pursuing Artificial Intelligence Degree in India.
-#### I love to design websites and learn new things.
-
-##### 🔭 I’ve built many web applications!
-##### 🌱 I’m currently pursuing B-Tech in Artificial Intelligence.
+##### 👨‍💻 I've built many web applications.
+##### 🔭 I love to learn new things.
+##### 🌱 I’m currently developing an android and iOS app.
 
 <br />
 
