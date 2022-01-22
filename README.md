@@ -23,7 +23,7 @@
 
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaDeolalikar)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaDeolalikar)
 
 ![image title](https://rushter.com/counter.svg)
 
