@@ -38,4 +38,8 @@
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
 
+<br />
+<br />
+<br />
 
+![ProfileViews](https://komarev.com/ghpvc/?username=AtharvaDeolalikar&label=Profile+Views)
