@@ -1,4 +1,4 @@
-### Hi there 👋, I'm in 3rd Year pursuing Artificial Intelligence Degree in India.
+### Hi there 👋, I'm pursuing B-Tech Artificial Intelligence Degree in India.
 #### 👨‍💻 I've built many web applications.
 #### 🔭 I love to learn new things.
 #### 🌱 I’m currently developing an android and iOS app.
