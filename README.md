@@ -1,7 +1,6 @@
-### Hi there 👋, I'm pursuing B-Tech Artificial Intelligence Degree in India.
-#### 👨‍💻 I've built many web applications.
-#### 🔭 I love to learn new things.
-#### 🌱 I’m currently developing an android and iOS app.
+### Hi there 👋, I'm currently working as Software Development Engineer at Bajaj Finserv Health Limited. 
+#### 👨‍💻 I've built numerous web applications and cross platform mobile applications.
+#### 🔭 Making an impact wherever I go.
 
 <br />
 
